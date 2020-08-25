@@ -1,4 +1,9 @@
-## Viper
+A semester-long group research project that demonstrated the security vulnerabilities in the Data Encryption Standard (DES) algorithm. The project included a research paper and demonstration on cracking DES. Check out the demonstration!
+
+![Demo](https://www.dropbox.com/s/hbf22n99aw3rsqj/BreakingDESDemonstration.mp4?dl=0)
+
+
+# Viper
 
 Frank4DD, @ May 2000
 
